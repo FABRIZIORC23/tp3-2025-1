@@ -1,0 +1,19 @@
+Estructura de archivos
+Formato: formato CSV
+Filas: cada fila representa un estudiante individual.
+Columnas: cada columna representa una característica o atributo específico.
+Columnas
+ID: Identificador único para cada estudiante.
+Edad: Edad del estudiante.
+Género: Género (por ejemplo, Masculino, Femenino).
+Ciudad: Región geográfica
+CGA: Promedio de calificaciones u otros puntajes académicos.
+Duración del sueño: duración promedio diaria del sueño.
+Profesión:
+Presión de trabajo:
+Presión académica:
+Satisfacción con el estudio:
+Satisfacción laboral:
+Hábitos alimentarios:
+Variable objetivo
+Estado de depresión: binario (sí/no)
