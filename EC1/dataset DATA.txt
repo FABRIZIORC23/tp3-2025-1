@@ -1,0 +1,25 @@
+% Context
+% Cytology features of breast cancer biopsy. It can be used to predict breast cancer from cytology features.
+% The data was obtained from https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Original) 
+% Data description can be found at https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/breast-cancer-wisconsin.names
+% Content
+% Data contains cytology features of breast cancer biopsies - clump thickness, uniformity of cell size, uniformity of cell shape, marginal adhesion, single epithelial cell size, bare nuclei, bland chromatin, normal nuceloli, mitosis. The class variable denotes whether it was cancer or not. Cancer = 1 and not cancer = 0
+% Attribute Information:
+%
+% Sample code number: id number 
+% Clump Thickness: 1 - 10 
+% Uniformity of Cell Size: 1 - 10 
+% Uniformity of Cell Shape: 1 - 10 
+% Marginal Adhesion: 1 - 10 
+% Single Epithelial Cell Size: 1 - 10 
+% Bare Nuclei: 1 - 10 
+% Bland Chromatin: 1 - 10 
+% Normal Nucleoli: 1 - 10 
+% Mitoses: 1 - 10 
+% Class: (0 for benign, 1 for malignant)
+%
+% Acknowledgements
+% Data obtained from : UCI machine learning repository 
+% Dua, D. and Karra Taniskidou, E. (2017). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.
+% Picture courtesy: Photo by Pablo Heimplatz on Unsplash
+@RELATION Wisconsin-breast-cancer-cytology-features
